@@ -3,7 +3,7 @@ This repo is a placeholder for the paper submitted in [DSD/SEAA 2023](https://ds
 
 # Citation
 If you use this work in academic research, please cite it using the following BibTeX:
-> Galetakis, M.; 
+> {TBD} 
 ```
 ```
 
