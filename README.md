@@ -11,14 +11,12 @@ If you use this work in academic research, please cite it using the following Bi
 
 # Steps to reproduce our work
 ## Step 1: Install CFU-Playground 
-Install CFU-Playground following the step described in the official [setup guide](https://cfu-playground.readthedocs.io/en/latest/setup-guide.html) according to your configuration preferences.
+Follow the steps described in the official [setup guide](https://cfu-playground.readthedocs.io/en/latest/setup-guide.html) to install CFU-Playgorund according to your configuration preferences.
 ## Step 2: Install project
 Copy fomo folder from this repository under [CFU-Playground]/proj/ where [CFU-Playground] is the root installation folder from step 1.
-## Step 3: build project
-Cd into [CFU-Playground]/proj/fomo 
-
-Run make PLATFORM=sim to run simulation or 
-
-Run make prog && make load to run on Digilent Arty A7 board
-
-
+## Step 3: Build project
+```shell=
+cd [CFU-Playground]/proj/fomo 
+make PLATFORM=sim //run simulation or 
+make prog && make load //run on Digilent Arty A7 board
+```
