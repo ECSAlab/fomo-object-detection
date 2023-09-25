@@ -1,5 +1,5 @@
 # Design and implementation of a compact RISC-V based Machine Learning accelerator on Low End FPGA
-This repo is a placeholder for the paper submitted in [DSD/SEAA 2023](https://dsd-seaa2023.com/) Conference including also the instructions to deploy a model and run inference on the implemented RISC-V cpu.
+This repo is a placeholder for the paper submitted in [ETCEI 2023](https://conference.hetia.org) Conference including also the instructions to deploy a model and run inference on the implemented RISC-V cpu.
 
 # Citation
 If you use this work in academic research, please cite it using the following BibTeX:
