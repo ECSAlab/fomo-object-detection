@@ -3,7 +3,7 @@ This repo is a placeholder for the paper submitted in [ETCEI 2023](https://confe
 
 # Citation
 If you use this work in academic research, please cite it using the following BibTeX:
-> Galetakis, M.; Kalapothas, S.; Flamis, G.; Plessas, F.; Kitsos, P. Design and implementation of a compact {RISC-V} based Machine Learning accelerator on Low End FPGA. ETCEI 2023. https://doi.org/10.63438/GSRA5108
+> Galetakis, M.; Kalapothas, S.; Flamis, G.; Plessas, F.; Kitsos, P. Design and implementation of a compact RISC-V based Machine Learning accelerator on Low End FPGA. ETCEI 2023. https://doi.org/10.63438/GSRA5108
 ```
 @inproceedings{Galetakis2026-jz,
   title = {Design and implementation of a compact {RISC-V} based Machine Learning accelerator on Low End FPGA},
